@@ -31,11 +31,11 @@ public class pilhaIP {
 				}
 				
 			} else if(num % 2 == 0) {
-				System.out.println("Número par reconhecido. Adicionando a pilha dos pares.");
+				System.out.println("Número par reconhecido. Adicionando à pilha dos pares.");
 				pilhaPar.push(num);
 				System.out.println("Pilha dos pares: " + pilhaPar);
 			} else if(num % 2 != 0) {
-				System.out.println("Número ímpar reconhecido. Adicionando a pilha dos ímpares.");
+				System.out.println("Número ímpar reconhecido. Adicionando à pilha dos ímpares.");
 				pilhaImpar.push(num);
 				System.out.println("Pilha dos ímpares: " + pilhaImpar);
 			} 
