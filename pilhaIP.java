@@ -27,7 +27,7 @@ public class pilhaIP {
 					System.out.println("Pilha dos pares:" + pilhaPar);
 					System.out.println("Pilha dos ímpares: " + pilhaImpar);
 				} catch(EmptyStackException e) {
-					System.out.println("Erro! Uma ou ambas pilhas se Encontram vazias.");
+					System.out.println("Erro! Uma ou ambas pilhas se encontram vazias.");
 				}
 				
 			} else if(num % 2 == 0) {
