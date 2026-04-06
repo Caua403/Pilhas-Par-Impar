@@ -1,5 +1,5 @@
 # Pilhas-Par-Impar
-Um exercício básico de Estrutura de Dados que programei.
+Um exercício básico de Estrutura de Dados que desenvolvi.
 
 Neste programa é solicidado ao usuário que digite uma sequência de 10 números inteiros, adicionando os números ímpares para uma pilha de números ímpares, e os pares para uma pilha de números pares.
 
